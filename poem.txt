@@ -1,0 +1,11 @@
+The Rainbow
+
+red
+purple
+green
+white
+pink 
+orange 
+blue
+
+These are the colours of the Rainbow.
