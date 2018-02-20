@@ -6,5 +6,6 @@ green
 pink 
 orange 
 blue
+YELLOW
 
 These are the colours of the Rainbow.
